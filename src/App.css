@@ -1,0 +1,15 @@
+#center_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bar_plot_visualization, #scatter_plot_visualization {
+    margin-top: 40px;
+    display: inline-block; /*gold*/
+    border: 2px solid lightgray;
+}
+
+#bar_plot_visualization {
+    margin-bottom: 40px;
+}
