@@ -1,3 +1,9 @@
+/*
+* Daniel Santos Martinez
+* CS450-101
+* Assignment 3
+* */
+
 import React, {Component} from 'react'
 import * as d3 from 'd3';
 import Child1 from './Child1';
